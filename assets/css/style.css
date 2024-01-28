@@ -1,0 +1,34 @@
+.quienessomos{
+    background-color: olive;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.formulario{
+    background-color: olive;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.imagenes{
+    background-color: olive;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;      
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.footer {
+    background-color: olive;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
